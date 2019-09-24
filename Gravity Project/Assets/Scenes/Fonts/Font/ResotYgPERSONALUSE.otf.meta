@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 99599607df8ba2b4b822014231b8b86e
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: ResotYg PERSONAL USE
+  fontNames:
+  - ResotYg PERSONAL USE
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 12ebe630fb7a4e44b9d9ae39b2af14f0, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
